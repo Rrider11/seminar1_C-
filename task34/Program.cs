@@ -18,8 +18,7 @@ while(index < length)
 
 for (int i = 0; i < length;  i++)
     {
-        arr1 [i] = new Random().Next (100,999);
-        // Console.Write($"{arr1 [i]} ");
+        
 
         if(arr1[i] % 2 == 0)
         {
